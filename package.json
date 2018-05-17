@@ -1,0 +1,20 @@
+{
+  "name": "autoVersionBump",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BHess2653/autoVersionBump.git"
+  },
+  "keywords": [],
+  "author": "BHess2653",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BHess2653/autoVersionBump/issues"
+  },
+  "homepage": "https://github.com/BHess2653/autoVersionBump#readme"
+}

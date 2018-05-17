@@ -2,6 +2,12 @@
 
 This is a simple version bumper using gulp
 
+## Install
+Clone this Repo
+```
+git clone https://github.com/BHess2653/autoVersionBump.git
+```
+
 ## Install Dependencies
 Install all dependencies
 ```
